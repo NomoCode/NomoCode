@@ -8,7 +8,9 @@
    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomocode&layout=compact&theme=dark)
+<div align="center">
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomocode&layout=compact&theme=dark)
+</div>
 
 <!--
 **NomoCode/NomoCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
