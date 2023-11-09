@@ -8,10 +8,14 @@
    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
+<hr>
+
 <div align="center">
    <a href="https://discord.com/users/605830269395533845"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
    <a href="mailto:hello@nomocode.io"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+<hr>
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomocode&layout=compact&theme=dark)"/>
