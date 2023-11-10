@@ -31,5 +31,12 @@
 <hr>
 
 <div align="center">
+   <h2>GitLab Team Contribution</h2>
+   <img src="https://github.com/NomoCode/NomoCode/assets/58144032/60b2be0a-00a7-451b-a58b-15a03dba3dcb"/>
+</div>
+
+<hr>
+
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomocode&layout=compact&theme=dark)"/>
 </div>
