@@ -32,7 +32,7 @@
 
 <div align="center">
    <h2>GitLab Team Contribution</h2>
-   <img src="https://github.com/NomoCode/NomoCode/assets/58144032/60b2be0a-00a7-451b-a58b-15a03dba3dcb"/>
+   <img src="https://github.com/NomoCode/NomoCode/assets/58144032/669e1990-4d33-461c-aa6e-355b0cdbddf5"/>
 </div>
 
 <hr>
