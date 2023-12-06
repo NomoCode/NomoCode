@@ -40,3 +40,7 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomocode&layout=compact&theme=dark)"/>
 </div>
+
+<div align="center">
+   [![GitHub Streak](https://streak-stats.demolab.com?user=NomoCode&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
