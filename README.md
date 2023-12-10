@@ -38,12 +38,6 @@
 <hr>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomocode&layout=compact&theme=dark)"/>
-</div>
-
-<hr>
-
-<div align="center">
    <h2>GitHub Contributions</h2>
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NomoCode&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
