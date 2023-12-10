@@ -7,8 +7,6 @@
    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
-<hr>
-
 <div align="center">
    <h2>Hosting</h2>
    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
@@ -20,22 +18,16 @@
    <img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr" />
 </div>
 
-<hr>
-
 <div align="center">
    <h2>Socials</h2>
    <a href="https://discord.com/users/605830269395533845"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
    <a href="mailto:hello@nomocode.io"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<hr>
-
 <div align="center">
    <h2>GitLab Contributions</h2>
    <img src="https://github.com/NomoCode/NomoCode/assets/58144032/669e1990-4d33-461c-aa6e-355b0cdbddf5"/>
 </div>
-
-<hr>
 
 <div align="center">
    <h2>GitHub Contributions</h2>
