@@ -10,7 +10,10 @@
       <li>
          <h4>[2027] <a href="https://nomocode.com/ide">NomoCode IDE</a> - Create No-Code Engines, with No-Code</h4>
       </li>
+      <li>
+          <h4>Learn More: <a href="https://nomocode.com/">NomoCode.com</a></h4>
+      </li>
    </ul>
-   
+      
    <h2>GitHub Contributions</h2>
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NomoCode&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
