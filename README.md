@@ -1,5 +1,5 @@
 
-   <h2>Working On</h2>
+   <h2>Projects Working On</h2>
    <ul>
       <li>
          <h4>[2025] <a href="https://nomogame.com">NomoGame Engine</a> - Real Time Multiplayer No-Code Game Engine</h4>
@@ -15,7 +15,7 @@
       </li>
    </ul>
 
-   <h2>Tech Stacks</h2>
+   <h2>Preferred Tech Stacks</h2>
    <div>
       <h4>Runtime & Language</h4>
    	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
