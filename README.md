@@ -1,5 +1,8 @@
 
-   <h2>Projects Working On</h2>
+   <h2>Hey, I'm David 👋</h2>
+      <p>I'm leading the development of NomoCode, a no-code webapp engine for deploying smaller no-code engines.<br><br>NomoCode will empower anyone to create apps by simply talking back and forth with their computer.<br><br>Professionally, I enjoy solving problems that overlap with both business and human domains.<br><br>Personally, I have a passion for teaching, and my mission is to help others discover their unique voice in the world.<br><br>Feel free to reach out to my Discord <a href="https://discordapp.com/users/nomocode">@nomocode</a>, and let's connect!</p>
+
+   <h2>Projects Working On 👨‍💻</h2>
    <ul>
       <li>
          <h4>[2025] <a href="https://nomogame.com">NomoGame Engine</a> - Real Time Multiplayer No-Code Game Engine</h4>
@@ -15,7 +18,7 @@
       </li>
    </ul>
 
-   <h2>Current Tech Stacks</h2>
+   <h2>Current Tech Stacks 💻</h2>
    <div>
       <!-- https://ileriayo.github.io/markdown-badges/ -->
       <h4>Runtime & Language</h4>
@@ -48,5 +51,5 @@
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass" title="Saas"/>
    </div>
       
-   <h2>GitHub Contributions</h2>
+   <h2>GitHub Contributions 🛠️</h2>
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NomoCode&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
