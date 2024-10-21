@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm David 👋</h1>
 
 <br>
-<p>I'm leading the development of NomoCode, a no-code webapp engine for deploying no-code engines.<br><br>NomoCode will empower anyone to create apps by simply talking back and forth with their computer.<br><br>Professionally, I enjoy solving problems that overlap with both business and human domains.<br><br>Personally, I have a passion for teaching, and my mission is to help others find their unique voice in the world.<br><br>Feel free to reach out to my Discord <a href="https://discordapp.com/users/nomocode">@nomocode</a>, and let's connect!</p>
+<p>I'm leading the development of NomoCode, a no-code webapp engine for deploying no-code engines.<br><br>NomoCode will empower anyone to create apps by simply talking back and forth with their computer.<br><br>Professionally, I enjoy solving problems that overlap with both business and human domains.<br><br>Personally, I have a passion for teaching, and my mission is to help others find their unique voice in the world.<br><br>Feel free to reach out on Discord <a href="https://discordapp.com/users/nomocode">@nomocode</a>, and let's connect!</p>
 
 <br>
    <h2>Projects Working On 👨‍💻</h2>
